@@ -15,7 +15,7 @@ const products = [
   {
     id: 2,
     name: "4x6",
-    image: "/frames/4x6.png",
+    image: "/frames/4x6.jpg",
     price: "Rs.270",
     packingCharges: "Rs.20",
     category: "Frames"
@@ -55,7 +55,7 @@ const products = [
   {
     id: 7,
     name: "10x15",
-    image: "/frames/10x15.png",
+    image: "/frames/10x15.jpg",
     price: "Rs.600",
     packingCharges: "Rs.30",
     category: "Frames"
