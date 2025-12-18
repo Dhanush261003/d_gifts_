@@ -1216,7 +1216,7 @@ const products = [
     deliveryCharges: "Rs.70",
     category: "Combo"
   },
-  {
+  /*{
     id: 420,
     name: "",
     image: "/combo/.jpg",
@@ -1315,7 +1315,7 @@ const products = [
     deliveryCharges: "Rs.",
     category: "Combo"
   },
-
+*/
 ];
 
 const categories = ["All", "Frames", "Toys", "Combo", "Others"];
