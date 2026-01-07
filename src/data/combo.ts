@@ -192,4 +192,13 @@ export const combo = [
     deliveryCharges: "Rs.",
     category: "Combo"
   },
+  {
+    id: 425,
+    name: "Wooden Box + Pen",
+    image: "/combo/Wooden Box + Pen.svg",
+    price: "Rs.399",
+    packingCharges: "Rs.",
+    deliveryCharges: "Rs.70",
+    category: "combo"
+  },
 ];

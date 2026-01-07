@@ -396,13 +396,4 @@ export const others = [
     deliveryCharges: "Rs.70",
     category: "Others"
   },
-  {
-    id: 245,
-    name: "Wooden Box + Pen",
-    image: "/others/Wooden Box + Pen.svg",
-    price: "Rs.399",
-    packingCharges: "Rs.",
-    deliveryCharges: "Rs.70",
-    category: "Others"
-  },
 ];
