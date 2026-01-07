@@ -199,6 +199,6 @@ export const combo = [
     price: "Rs.399",
     packingCharges: "Rs.",
     deliveryCharges: "Rs.70",
-    category: "combo"
+    category: "Combo"
   },
 ];
