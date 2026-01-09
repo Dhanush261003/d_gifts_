@@ -2,11 +2,12 @@ export const frames = [
   {
     id: 1,
     name: "4x4",
-    image: "/frames/4x4.svg", 
+    image: "/frames/4x4.svg",
     price: "Rs.200",
     packingCharges: "Rs.20",
     deliveryCharges: "Rs.",
-    category: "Frames"
+    category: "Frames",
+    group: "Small"
   },
   {
     id: 2,
@@ -15,7 +16,8 @@ export const frames = [
     price: "Rs.270",
     packingCharges: "Rs.20",
     deliveryCharges: "Rs.",
-    category: "Frames"
+    category: "Frames",
+    group: "Small"
   },
   {
     id: 3,
@@ -24,7 +26,8 @@ export const frames = [
     price: "Rs.300",
     packingCharges: "Rs.25",
     deliveryCharges: "Rs.",
-    category: "Frames"
+    category: "Frames",
+    group: "Medium"
   },
   {
     id: 4,
@@ -33,7 +36,8 @@ export const frames = [
     price: "Rs.450",
     packingCharges: "Rs.25",
     deliveryCharges: "Rs.",
-    category: "Frames"
+    category: "Frames",
+    group: "Medium"
   },
   {
     id: 5,
@@ -42,7 +46,8 @@ export const frames = [
     price: "Rs.500",
     packingCharges: "Rs.30",
     deliveryCharges: "Rs.",
-    category: "Frames"
+    category: "Frames",
+    group: "Medium"
   },
   {
     id: 6,
@@ -51,7 +56,8 @@ export const frames = [
     price: "Rs.550",
     packingCharges: "Rs.30",
     deliveryCharges: "Rs.",
-    category: "Frames"
+    category: "Frames",
+    group: "Medium"
   },
   {
     id: 7,
@@ -60,9 +66,9 @@ export const frames = [
     price: "Rs.600",
     packingCharges: "Rs.30",
     deliveryCharges: "Rs.",
-    category: "Frames"
+    category: "Frames",
+    group: "Medium"
   },
-
   {
     id: 8,
     name: "12x15",
@@ -70,9 +76,9 @@ export const frames = [
     price: "Rs.650",
     packingCharges: "Rs.30",
     deliveryCharges: "Rs.",
-    category: "Frames"
+    category: "Frames",
+    group: "Medium"
   },
-
   {
     id: 9,
     name: "12x18",
@@ -80,7 +86,8 @@ export const frames = [
     price: "Rs.750",
     packingCharges: "Rs.30",
     deliveryCharges: "Rs.",
-    category: "Frames"
+    category: "Frames",
+    group: "Medium"
   },
   {
     id: 10,
@@ -89,7 +96,8 @@ export const frames = [
     price: "Rs.1000",
     packingCharges: "Rs.35",
     deliveryCharges: "Rs.",
-    category: "Frames"
+    category: "Frames",
+    group: "Large"
   },
   {
     id: 11,
@@ -98,7 +106,8 @@ export const frames = [
     price: "Rs.1400",
     packingCharges: "Rs.35",
     deliveryCharges: "Rs.",
-    category: "Frames"
+    category: "Frames",
+    group: "Large"
   },
   {
     id: 12,
@@ -107,7 +116,8 @@ export const frames = [
     price: "Rs.1500",
     packingCharges: "Rs.40",
     deliveryCharges: "Rs.",
-    category: "Frames"
+    category: "Frames",
+    group: "Large"
   },
   {
     id: 13,
@@ -116,7 +126,8 @@ export const frames = [
     price: "Rs.1800",
     packingCharges: "Rs.40",
     deliveryCharges: "Rs.",
-    category: "Frames"
+    category: "Frames",
+    group: "Large"
   },
   {
     id: 14,
@@ -125,7 +136,8 @@ export const frames = [
     price: "Rs.2000",
     packingCharges: "Rs.40",
     deliveryCharges: "Rs.",
-    category: "Frames"
+    category: "Frames",
+    group: "Large"
   },
   {
     id: 15,
@@ -134,7 +146,8 @@ export const frames = [
     price: "Rs.2100",
     packingCharges: "Rs.45",
     deliveryCharges: "Rs.",
-    category: "Frames"
+    category: "Frames",
+    group: "Large"
   },
   {
     id: 16,
@@ -143,7 +156,8 @@ export const frames = [
     price: "Rs.2600",
     packingCharges: "Rs.55",
     deliveryCharges: "Rs.",
-    category: "Frames"
+    category: "Frames",
+    group: "Extra Large"
   },
   {
     id: 17,
@@ -152,6 +166,7 @@ export const frames = [
     price: "Rs.2600",
     packingCharges: "Rs.55",
     deliveryCharges: "Rs.",
-    category: "Frames"
+    category: "Frames",
+    group: "Extra Large"
   }
 ];

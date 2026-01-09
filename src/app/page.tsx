@@ -11,7 +11,7 @@ const products = [...frames, ...toys, ...combo, ...others];
 const categories = ["All", "Frames", "Toys", "Combo", "Others"];
 
 export default function Home() {
-  const [activeTab, setActiveTab] = useState("Frames");
+  const [activeTab, setActiveTab] = useState("All");
   const [searchTerm, setSearchTerm] = useState("");
   const [sortOrder, setSortOrder] = useState("");
 
