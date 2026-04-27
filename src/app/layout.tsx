@@ -15,6 +15,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "d_gifts_",
   description: "Developed by d_gifts_",
+  verification: {
+    google: "mTC4ybEVdjdJSkSK3ifhxOCiBnXXXHzgbRU2U2BEt_4",
+  },
 };
 
 export default function RootLayout({
